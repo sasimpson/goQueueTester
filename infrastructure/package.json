@@ -2,7 +2,7 @@
   "name": "go-queue-tester",
   "version": "0.1.0",
   "bin": {
-    "infrastructure": "bin/go-queue-tester.ts"
+    "go-queue-tester": "bin/go-queue-tester.ts"
   },
   "scripts": {
     "build": "tsc",
